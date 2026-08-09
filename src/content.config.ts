@@ -27,6 +27,10 @@ const blog = defineCollection({
 		// automatically; `pillar: true` marks the cluster's hub post.
 		cluster: z.string().optional(),
 		pillar: z.boolean().default(false),
+		// Post Q&A → emits FAQPage JSON-LD (AI/LLM citation, not SERP snippets —
+		// Google retired FAQ rich results May 2026). Author the SAME questions as a
+		// visible section in the body so the schema mirrors on-page content.
+		faqs: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
 	}),
 });
 
