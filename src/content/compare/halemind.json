@@ -77,6 +77,10 @@
 	],
 	"faqs": [
 		{
+			"q": "What is Halemind?",
+			"a": "Halemind is an established India-based cloud platform for hospital and clinic management, covering areas like OPD and IPD, appointments, billing, pharmacy, lab and ABDM-related workflows, and it's used by clinics and hospitals across India. For its current feature set and pricing, confirm directly with Halemind's team — the details on this page reflect publicly available information as of August 2026."
+		},
+		{
 			"q": "Is Lucoze a good alternative to Halemind?",
 			"a": "It can be, depending on what matters to you. Lucoze leans on India data residency, native ABDM/ABHA support, flat per-clinic pricing, a Hindi-ready front desk and fast go-live. If those are priorities for your clinic, it's worth a look. Halemind is a capable, established platform too, so compare both against your own checklist."
 		},
@@ -87,9 +91,17 @@
 		{
 			"q": "How does Lucoze's pricing compare to Halemind's?",
 			"a": "Lucoze uses flat per-clinic pricing starting at ₹1,499, so cost stays predictable regardless of how many users log in. We can't speak for Halemind's current pricing, so please confirm their latest plans directly with their team and compare on the total you'd actually pay."
+		},
+		{
+			"q": "Does Halemind support ABDM and ABHA?",
+			"a": "Halemind documents ABDM-related features, so ABDM/ABHA support is available; the exact scope — for example HPR registration and consent flows — is best confirmed with their team. In Lucoze, ABHA creation, HPR and ABDM workflows are built in by default rather than added as a separate module. Verify the current specifics with each vendor."
+		},
+		{
+			"q": "What are the alternatives to Halemind in India?",
+			"a": "There are several India-focused clinic and hospital management systems — Lucoze, Practo Ray, HealthPlix, MocDoc, KareXpert and others — each with different strengths around pricing, ABDM support, data residency and language. The right fit depends on your size, your departments and your priorities, so it's worth comparing a shortlist against your own checklist rather than judging on feature counts alone."
 		}
 	],
-	"comparedOn": "July 2026",
+	"comparedOn": "August 2026",
 	"relatedBlog": {
 		"href": "/in/blog/practo-vs-halemind/",
 		"label": "Read: Practo Ray vs Halemind vs Lucoze"
