@@ -77,6 +77,10 @@
 	],
 	"faqs": [
 		{
+			"q": "What is HealthPlix?",
+			"a": "HealthPlix is a well-regarded, doctor-focused EMR in India, known for AI-assisted clinical documentation and widely used by specialists. It centres on the clinical record rather than full clinic operations. Confirm its current feature set and pricing with their team — details here reflect publicly available information as of August 2026."
+		},
+		{
 			"q": "Is Lucoze a replacement for HealthPlix?",
 			"a": "It depends on what you need. HealthPlix is primarily a doctor-focused EMR. Lucoze is a full clinic operations platform — records plus appointments, GST billing, lab, pharmacy and HR. If you want more than the clinical record, Lucoze covers the whole clinic; if a pure EMR is all you need, HealthPlix is a solid option."
 		},
@@ -89,5 +93,5 @@
 			"a": "Lucoze hosts patient data on infrastructure inside India and is built around the DPDP Act 2023. For HealthPlix's data residency and compliance specifics, we'd suggest verifying directly with their team, as we don't want to state anything on their behalf."
 		}
 	],
-	"comparedOn": "July 2026"
+	"comparedOn": "August 2026"
 }

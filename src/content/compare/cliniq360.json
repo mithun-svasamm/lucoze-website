@@ -77,6 +77,10 @@
 	],
 	"faqs": [
 		{
+			"q": "What is Cliniq360?",
+			"a": "Cliniq360 is an India-based cloud clinic and hospital management platform covering appointments, EMR, billing, pharmacy and lab. Confirm current features and pricing directly with their team — this page reflects publicly available information as of August 2026."
+		},
+		{
 			"q": "Is Lucoze a good alternative to Cliniq360?",
 			"a": "It depends on your priorities. If India data residency, DPDP readiness, native ABDM/ABHA and a Hindi-ready interface sit near the top of your list, Lucoze is built specifically around those. Cliniq360 is a solid platform too — we would encourage you to trial both and confirm the details that matter to you."
 		},
@@ -89,5 +93,5 @@
 			"a": "Yes. Guided onboarding typically gets a clinic live in about 14 days, including importing your existing patient records, and you can export your full data on demand at any time if you ever choose to leave."
 		}
 	],
-	"comparedOn": "July 2026"
+	"comparedOn": "August 2026"
 }

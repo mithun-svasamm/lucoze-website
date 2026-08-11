@@ -77,6 +77,10 @@
 	],
 	"faqs": [
 		{
+			"q": "What is Practo Ray?",
+			"a": "Practo Ray is a widely used cloud clinic-management platform in India, covering appointments, patient records and billing for clinics. For its current features and pricing, confirm directly with Practo — the details on this page reflect publicly available information as of August 2026."
+		},
+		{
 			"q": "Is Lucoze a good alternative to Practo Ray?",
 			"a": "It depends on what matters to your clinic. If India data residency, a single platform covering appointments through pharmacy, native ABDM/ABHA, and flat per-clinic pricing are priorities, Lucoze is built around exactly those. The best way to judge is a 14-day free trial with your own workflow — no credit card required."
 		},
@@ -89,7 +93,7 @@
 			"a": "Lucoze uses flat per-clinic monthly pricing (from ₹1,499/month) that doesn't change with the number of users, plus a 14-day free trial. Practo Ray's current pricing is best confirmed directly with the vendor, as plans and add-ons change over time."
 		}
 	],
-	"comparedOn": "July 2026",
+	"comparedOn": "August 2026",
 	"relatedBlog": {
 		"href": "/in/blog/switch-from-practo-ray/",
 		"label": "Read the 14-day migration playbook"

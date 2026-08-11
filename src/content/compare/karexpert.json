@@ -77,6 +77,10 @@
 	],
 	"faqs": [
 		{
+			"q": "What is KareXpert?",
+			"a": "KareXpert is an established India-based, enterprise-grade cloud healthcare platform with a broad module set aimed largely at hospitals and larger healthcare organisations. Confirm its current scope and pricing with their team — details here reflect publicly available information as of August 2026."
+		},
+		{
 			"q": "Is Lucoze a good alternative to KareXpert?",
 			"a": "It depends on your size. KareXpert is a strong enterprise platform for hospitals and larger healthcare groups. Lucoze is built for clinics and small hospitals that want a fast setup, flat pricing and India-specific compliance without a long implementation. If that describes you, Lucoze is worth a look."
 		},
@@ -89,5 +93,5 @@
 			"a": "Most clinics are live on Lucoze in about 14 days, including data setup and staff onboarding. Enterprise hospital platforms are usually implemented over a longer, phased timeline, which makes sense at hospital scale but is more than a typical clinic needs."
 		}
 	],
-	"comparedOn": "July 2026"
+	"comparedOn": "August 2026"
 }
