@@ -11,3 +11,6 @@ yaml/
 test-results/
 playwright-report/
 playwright/.cache/
+
+# local secrets (Plausible key etc.)
+.env
