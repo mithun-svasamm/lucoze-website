@@ -11,16 +11,19 @@
 
 import { track } from "./analytics";
 
-type Source = "contact" | "design-partner" | "demo" | "abdm-check";
+type Source = "contact" | "design-partner" | "demo" | "abdm-check" | "abdm-setup-help";
 
 // The admin's submit_lead only whitelists these sources (else "Invalid form
-// source"). A "demo" or "abdm-check" enquiry is a contact-type lead, so we send
-// "contact" to the API — the analytics events below keep the real source for reporting.
+// source"). A "demo", "abdm-check" or "abdm-setup-help" enquiry is a contact-type
+// lead, so we send "contact" to the API — the analytics events below keep the real
+// source for reporting. ⚠️ EVERY Source MUST have an entry here or the payload gets
+// source=undefined → "Invalid form source" (Astro build does NOT type-check this).
 const API_SOURCE: Record<Source, "contact" | "design-partner"> = {
 	contact: "contact",
 	"design-partner": "design-partner",
 	demo: "contact",
 	"abdm-check": "contact",
+	"abdm-setup-help": "contact",
 };
 
 interface InitOptions {
