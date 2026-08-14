@@ -77,6 +77,10 @@
 	],
 	"faqs": [
 		{
+			"q": "What is MocDoc?",
+			"a": "MocDoc is a Chennai-based cloud hospital and clinic management platform with modules for patient management, billing, pharmacy and lab, often chosen by small hospitals and clinics looking for a budget-friendly system. Confirm current details directly with MocDoc — this page reflects publicly available information as of August 2026."
+		},
+		{
 			"q": "Is Lucoze a good alternative to MocDoc?",
 			"a": "If keeping patient data in India, native ABDM and ABHA support, flat per-clinic pricing and a Hindi-ready front desk are priorities for your clinic, Lucoze is worth a close look. MocDoc is an established platform too, so we'd suggest trialling both against your actual workflow before deciding."
 		},
@@ -89,5 +93,5 @@
 			"a": "Lucoze has ABDM, ABHA and HPR support built into the core workflow, including ABHA creation and health-registry linkage. MocDoc may offer ABDM features as well; we'd recommend verifying the specifics and scope of its ABDM integration with MocDoc directly."
 		}
 	],
-	"comparedOn": "July 2026"
+	"comparedOn": "August 2026"
 }
